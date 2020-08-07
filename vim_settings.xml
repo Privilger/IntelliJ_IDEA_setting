@@ -1,14 +1,159 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwwXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/GDB" timestamp="1573055772253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1573055810148">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/read_depth_file.cpp" timestamp="1553776014387">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/read_depth_file.h" timestamp="1553762034218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/cmake-build-debug/test.txt" timestamp="1554026507603">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/CMakeLists.txt" timestamp="1554025784703">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="66" />
+      </file>
+      <file name="$USER_HOME$/ros_workspace/test/oj.cpp" timestamp="1573056244388">
+        <mark key="'" line="23" column="23" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/RoboRTS/roborts_planning/local_planner/timed_elastic_band/src/teb_local_planner.cpp" timestamp="1555572274813">
+        <mark key="[" line="494" column="77" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/rgbd_dataset_freiburg2_xyz/ground_truth.txt" timestamp="1554013468639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1573056095001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/main.cpp" timestamp="1554026259019">
+        <mark key="[" line="194" column="84" />
+        <mark key="m" line="185" column="27" />
+        <mark key="]" line="194" column="85" />
+        <mark key="." line="194" column="85" />
+        <mark key="^" line="194" column="76" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/test.cpp" timestamp="1553771032314">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/RoboRTS/roborts_planning/local_planner/src/odom_info.cpp" timestamp="1555496392841">
+        <mark key="[" line="52" column="4" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/myICP/plot.py" timestamp="1554026450683">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="38" column="49" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="28" filename="$USER_HOME$/CLionProjects/myICP/nanoflann/include/nanoflann.hpp" />
+      <jump line="23" column="23" filename="$USER_HOME$/ros_workspace/test/oj.cpp" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgY291dDw8ImFzZGYiPDxlbmRsOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwwXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PDwiMSAi</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgY291dDw8ImFzZGYiPDxlbmRsOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDxlbmRsOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDwiVCI8PGk8PGVuZGw7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDwicmVhZCBuIG0gcSI8PE48PCIgIjw8TTw8IiAiPDxRPDwiICI8PGVuZGw7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY291dDw8Im06Ijw8dG1wPDwiICI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDwidHlwZSBxOiI8PGVuZGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBjb3V0PDwicToiPDx0bXA8ZGRkZGRkPCIgIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNvdXQ8PCJUIjw8aTw8ZW5kbDsK</text>
+      </register>
+      <register name="x" type="4">
+        <text>R_</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNvdXQ8PCJyZWFkIG4gbSBxIjw8Tjw8IiAiPDxNPDwiICI8PFE8PCIgIjw8ZW5kbDsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDwwXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
